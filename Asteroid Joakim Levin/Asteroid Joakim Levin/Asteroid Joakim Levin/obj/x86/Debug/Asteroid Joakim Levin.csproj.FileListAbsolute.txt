@@ -1,0 +1,18 @@
+C:\Users\Joakim\Documents\Skola\Spelutveckling\OOSP\Examinationsuppgift\Asteroid Joakim Levin\Asteroid Joakim Levin\Asteroid Joakim Levin\bin\x86\Debug\Content\asteroid.xnb
+C:\Users\Joakim\Documents\Skola\Spelutveckling\OOSP\Examinationsuppgift\Asteroid Joakim Levin\Asteroid Joakim Levin\Asteroid Joakim Levin\bin\x86\Debug\Asteroid Joakim Levin.exe
+C:\Users\Joakim\Documents\Skola\Spelutveckling\OOSP\Examinationsuppgift\Asteroid Joakim Levin\Asteroid Joakim Levin\Asteroid Joakim Levin\bin\x86\Debug\Asteroid Joakim Levin.pdb
+C:\Users\Joakim\Documents\Skola\Spelutveckling\OOSP\Examinationsuppgift\Asteroid Joakim Levin\Asteroid Joakim Levin\Asteroid Joakim Levin\obj\x86\Debug\Asteroid Joakim Levin.csprojResolveAssemblyReference.cache
+C:\Users\Joakim\Documents\Skola\Spelutveckling\OOSP\Examinationsuppgift\Asteroid Joakim Levin\Asteroid Joakim Levin\Asteroid Joakim Levin\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Joakim\Documents\Skola\Spelutveckling\OOSP\Examinationsuppgift\Asteroid Joakim Levin\Asteroid Joakim Levin\Asteroid Joakim Levin\obj\x86\Debug\Asteroid Joakim Levin.exe
+C:\Users\Joakim\Documents\Skola\Spelutveckling\OOSP\Examinationsuppgift\Asteroid Joakim Levin\Asteroid Joakim Levin\Asteroid Joakim Levin\obj\x86\Debug\Asteroid Joakim Levin.pdb
+C:\Users\Joakim\Documents\Skola\Spelutveckling\OOSP\Examinationsuppgift\Asteroid Joakim Levin\Asteroid Joakim Levin\Asteroid Joakim Levin\bin\x86\Debug\Content\background.xnb
+C:\Users\Joakim\Documents\Skola\Spelutveckling\OOSP\Examinationsuppgift\Asteroid Joakim Levin\Asteroid Joakim Levin\Asteroid Joakim Levin\bin\x86\Debug\Content\music_background.xnb
+C:\Users\Joakim\Documents\Skola\Spelutveckling\OOSP\Examinationsuppgift\Asteroid Joakim Levin\Asteroid Joakim Levin\Asteroid Joakim Levin\bin\x86\Debug\Content\sound_asteroid_hit.xnb
+C:\Users\Joakim\Documents\Skola\Spelutveckling\OOSP\Examinationsuppgift\Asteroid Joakim Levin\Asteroid Joakim Levin\Asteroid Joakim Levin\bin\x86\Debug\Content\sound_city_hit.xnb
+C:\Users\Joakim\Documents\Skola\Spelutveckling\OOSP\Examinationsuppgift\Asteroid Joakim Levin\Asteroid Joakim Levin\Asteroid Joakim Levin\bin\x86\Debug\Content\TheFont.xnb
+C:\Users\Joakim\Documents\Skola\Spelutveckling\OOSP\Examinationsuppgift\Asteroid Joakim Levin\Asteroid Joakim Levin\Asteroid Joakim Levin\bin\x86\Debug\Content\city_0.xnb
+C:\Users\Joakim\Documents\Skola\Spelutveckling\OOSP\Examinationsuppgift\Asteroid Joakim Levin\Asteroid Joakim Levin\Asteroid Joakim Levin\bin\x86\Debug\Content\city_1.xnb
+C:\Users\Joakim\Documents\Skola\Spelutveckling\OOSP\Examinationsuppgift\Asteroid Joakim Levin\Asteroid Joakim Levin\Asteroid Joakim Levin\bin\x86\Debug\Content\city_2.xnb
+C:\Users\Joakim\Documents\Skola\Spelutveckling\OOSP\Examinationsuppgift\Asteroid Joakim Levin\Asteroid Joakim Levin\Asteroid Joakim Levin\bin\x86\Debug\Content\city_3.xnb
+C:\Users\Joakim\Documents\Skola\Spelutveckling\OOSP\Examinationsuppgift\Asteroid Joakim Levin\Asteroid Joakim Levin\Asteroid Joakim Levin\bin\x86\Debug\Content\city_4.xnb
+C:\Users\Joakim\Documents\Skola\Spelutveckling\OOSP\Examinationsuppgift\Asteroid Joakim Levin\Asteroid Joakim Levin\Asteroid Joakim Levin\bin\x86\Debug\Content\city_5.xnb

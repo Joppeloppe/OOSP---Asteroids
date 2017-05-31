@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>asteroid.png</Source>
+      <Name>asteroid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim\Documents\Skola\Spelutveckling\OOSP\Examinationsuppgift\Asteroid Joakim Levin\Asteroid Joakim Levin\Asteroid Joakim Levin\bin\x86\Debug\Content\asteroid.xnb</Output>
+      <Time>2014-09-21T13:22:04.8464755+02:00</Time>
+    </Item>
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim\Documents\Skola\Spelutveckling\OOSP\Examinationsuppgift\Asteroid Joakim Levin\Asteroid Joakim Levin\Asteroid Joakim Levin\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2014-09-21T15:30:34.9314671+02:00</Time>
+    </Item>
+    <Item>
+      <Source>music_background.wav</Source>
+      <Name>music_background</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim\Documents\Skola\Spelutveckling\OOSP\Examinationsuppgift\Asteroid Joakim Levin\Asteroid Joakim Levin\Asteroid Joakim Levin\bin\x86\Debug\Content\music_background.xnb</Output>
+      <Time>2014-09-18T20:56:05.8893684+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sound_asteroid_hit.wav</Source>
+      <Name>sound_asteroid_hit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim\Documents\Skola\Spelutveckling\OOSP\Examinationsuppgift\Asteroid Joakim Levin\Asteroid Joakim Levin\Asteroid Joakim Levin\bin\x86\Debug\Content\sound_asteroid_hit.xnb</Output>
+      <Time>2014-09-18T20:46:58.7790755+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sound_city_hit.wav</Source>
+      <Name>sound_city_hit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim\Documents\Skola\Spelutveckling\OOSP\Examinationsuppgift\Asteroid Joakim Levin\Asteroid Joakim Levin\Asteroid Joakim Levin\bin\x86\Debug\Content\sound_city_hit.xnb</Output>
+      <Time>2014-09-18T20:47:11.4538005+02:00</Time>
+    </Item>
+    <Item>
+      <Source>TheFont.spritefont</Source>
+      <Name>TheFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim\Documents\Skola\Spelutveckling\OOSP\Examinationsuppgift\Asteroid Joakim Levin\Asteroid Joakim Levin\Asteroid Joakim Levin\bin\x86\Debug\Content\TheFont.xnb</Output>
+      <Time>2014-09-19T10:48:02.9570282+02:00</Time>
+    </Item>
+    <Item>
+      <Source>city_0.png</Source>
+      <Name>city_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim\Documents\Skola\Spelutveckling\OOSP\Examinationsuppgift\Asteroid Joakim Levin\Asteroid Joakim Levin\Asteroid Joakim Levin\bin\x86\Debug\Content\city_0.xnb</Output>
+      <Time>2014-09-19T19:48:01.5716785+02:00</Time>
+    </Item>
+    <Item>
+      <Source>city_1.png</Source>
+      <Name>city_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim\Documents\Skola\Spelutveckling\OOSP\Examinationsuppgift\Asteroid Joakim Levin\Asteroid Joakim Levin\Asteroid Joakim Levin\bin\x86\Debug\Content\city_1.xnb</Output>
+      <Time>2014-09-19T19:48:01.5916796+02:00</Time>
+    </Item>
+    <Item>
+      <Source>city_2.png</Source>
+      <Name>city_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim\Documents\Skola\Spelutveckling\OOSP\Examinationsuppgift\Asteroid Joakim Levin\Asteroid Joakim Levin\Asteroid Joakim Levin\bin\x86\Debug\Content\city_2.xnb</Output>
+      <Time>2014-09-19T19:48:01.6076805+02:00</Time>
+    </Item>
+    <Item>
+      <Source>city_3.png</Source>
+      <Name>city_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim\Documents\Skola\Spelutveckling\OOSP\Examinationsuppgift\Asteroid Joakim Levin\Asteroid Joakim Levin\Asteroid Joakim Levin\bin\x86\Debug\Content\city_3.xnb</Output>
+      <Time>2014-09-19T19:48:01.6236815+02:00</Time>
+    </Item>
+    <Item>
+      <Source>city_4.png</Source>
+      <Name>city_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim\Documents\Skola\Spelutveckling\OOSP\Examinationsuppgift\Asteroid Joakim Levin\Asteroid Joakim Levin\Asteroid Joakim Levin\bin\x86\Debug\Content\city_4.xnb</Output>
+      <Time>2014-09-19T19:48:01.6416825+02:00</Time>
+    </Item>
+    <Item>
+      <Source>city_5.png</Source>
+      <Name>city_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim\Documents\Skola\Spelutveckling\OOSP\Examinationsuppgift\Asteroid Joakim Levin\Asteroid Joakim Levin\Asteroid Joakim Levin\bin\x86\Debug\Content\city_5.xnb</Output>
+      <Time>2014-09-19T19:48:01.650683+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Joakim\Documents\Skola\Spelutveckling\OOSP\Examinationsuppgift\Asteroid Joakim Levin\Asteroid Joakim Levin\Asteroid Joakim LevinContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Joakim\Documents\Skola\Spelutveckling\OOSP\Examinationsuppgift\Asteroid Joakim Levin\Asteroid Joakim Levin\Asteroid Joakim Levin\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Joakim\Documents\Skola\Spelutveckling\OOSP\Examinationsuppgift\Asteroid Joakim Levin\Asteroid Joakim Levin\Asteroid Joakim LevinContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Joakim\Documents\Skola\Spelutveckling\OOSP\Examinationsuppgift\Asteroid Joakim Levin\Asteroid Joakim Levin\Asteroid Joakim Levin\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-07-07T21:12:50.0386336+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
